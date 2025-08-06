@@ -7,7 +7,6 @@
 
 Aplikasi web interaktif yang membantu siswa SMA di Indonesia membuat CV profesional dengan mudah dan cepat. Dengan antarmuka yang user-friendly dan fitur auto-download, siswa dapat membuat CV yang menarik untuk keperluan aplikasi beasiswa, magang, atau kompetisi.
 
-![CV Generator Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=CV+Generator+Demo)
 
 ## ✨ Fitur Utama
 
