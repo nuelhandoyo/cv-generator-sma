@@ -22,7 +22,7 @@ Aplikasi web interaktif yang membantu siswa SMA di Indonesia membuat CV profesio
 
 ## 🚀 Demo Langsung
 
-[**👉 Coba Sekarang**](https://yourusername.github.io/cv-generator-sma/)
+[**👉 Coba Sekarang**](https://cv-generator-sma.vercel.app/)
 
 ## 📋 Bagian CV yang Disediakan
 
